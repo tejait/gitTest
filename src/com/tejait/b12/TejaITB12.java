@@ -18,7 +18,7 @@ public static void main(String[] args) {
 	
 	System.out.println("commit test");
 	System.out.println("push test");
-	System.out.println();
+	System.out.println("printed");
 	
 }
 }

@@ -7,5 +7,6 @@ public static void main(String[] args) {
 	System.out.println("3rd changes");
 	System.out.println("changes required");
 	System.out.println("Teja Addedd after merge conflict");
+	System.out.println("Syed Added this line");
 }
 }

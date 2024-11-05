@@ -10,6 +10,7 @@ public class RajivTest {
 	public static void main(String[] args) {
 		RajivTest rt = new RajivTest();
 		System.out.println(rt.accountType);
+		System.out.println(rt.balance);
 	
 	}
 
